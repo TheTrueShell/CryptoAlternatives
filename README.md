@@ -1,4 +1,4 @@
-__**Crypto/Decentralised Alternatives**__  
+<ins>**Crypto/Decentralised Alternatives**</ins>  
 Shopping - https://purse.io/?_r=wHjkWi  
 Travel - https://www.travala.com/ref/B3OGPI  
 Gift-Cards - https://www.cryptorefills.com/  
